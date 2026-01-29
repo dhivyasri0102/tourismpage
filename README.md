@@ -57,7 +57,5 @@ It focuses on **responsive design**, **visual appeal**, and **interactive featur
 - **Bootstrap 5** – Responsive layout and UI components  
 - **JavaScript** – Interactivity (Drag & Drop functionality)
 
----
 
-## 📂 Project Structure
 
